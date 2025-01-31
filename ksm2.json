@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/peng-ykn.MP3"},
+    "26":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/peng-ksm.MP3"},
+    "27":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/kan-ykn.MP3"},
+    "28":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/kan-ksm.MP3"},
+    "29":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/chi-ykn.MP3"},
+    "30":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/chi-ksm.MP3"},
+    "31":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/reach-ykn.MP3"},
+    "32":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/reach-ksm.MP3"},
+    "33":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/ron-ykn.MP3"},
+    "34":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/ron-ksm.MP3"},
+    "35":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ykn/zimo-ykn.MP3"},
+    "36":{"url":"https://raw.githubusercontent.com/muzimiT/tenhou/main/ksm/zimo-ksm.MP3"}
+  }
+}
